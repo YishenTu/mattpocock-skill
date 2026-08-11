@@ -1,6 +1,6 @@
 # Matt Pocock Skills (organized)
 
-[Matt Pocock's agent skills](https://github.com/mattpocock/skills) installed locally and organized by area, following the category structure from [aihero.dev/skills](https://www.aihero.dev/skills).
+> **Purpose:** this repo is a categorized index of [Matt Pocock's agent skills](https://github.com/mattpocock/skills) for quickly browsing them by area. It contains no original skill content — **all credit belongs to Matt Pocock** ([aihero.dev](https://www.aihero.dev), [github.com/mattpocock/skills](https://github.com/mattpocock/skills)).
 
 The <!-- SKILL-COUNT:START -->35<!-- SKILL-COUNT:END --> skills are installed once into `.agents/skills/` (canonical copies) and surfaced through category folders via relative symlinks, so the repo stays consistent across machines.
 
