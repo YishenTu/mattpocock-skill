@@ -23,7 +23,7 @@ The <!-- SKILL-COUNT:START -->35<!-- SKILL-COUNT:END --> skills are installed on
 ## Quick start
 
 ```bash
-git clone <repo-url> mattpocock-skill   # new machine
+git clone https://github.com/YishenTu/mattpocock-skill.git mattpocock-skill   # new machine
 cd mattpocock-skill
 ./sync-skills.sh
 ```
