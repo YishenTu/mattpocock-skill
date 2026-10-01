@@ -2,7 +2,7 @@
 
 > **Purpose:** this repo is a categorized index of [Matt Pocock's agent skills](https://github.com/mattpocock/skills) for quickly browsing them by area. It contains no original skill content — **all credit belongs to Matt Pocock** ([aihero.dev](https://www.aihero.dev), [github.com/mattpocock/skills](https://github.com/mattpocock/skills)).
 
-The <!-- SKILL-COUNT:START -->37<!-- SKILL-COUNT:END --> skills are installed once into `.agents/skills/` (canonical copies) and surfaced through category folders via relative symlinks, so the repo stays consistent across machines.
+The <!-- SKILL-COUNT:START -->38<!-- SKILL-COUNT:END --> skills are installed once into `.agents/skills/` (canonical copies) and surfaced through category folders via relative symlinks, so the repo stays consistent across machines.
 
 ## Skill inventory
 
@@ -16,7 +16,7 @@ The <!-- SKILL-COUNT:START -->37<!-- SKILL-COUNT:END --> skills are installed on
 | 04 Upkeep | Keep the codebase and issue list healthy; generates work for the flow. Start with `/improve-codebase-architecture`. | - `improve-codebase-architecture`<br>- `diagnosing-bugs`<br>- `resolving-merge-conflicts`<br>- `triage`<br>- `wizard` |
 | 05 Productivity Skills | Human-facing workflows you run, not about code. Start with `/grill-me`. | - `grill-me`<br>- `handoff`<br>- `to-questionnaire`<br>- `teach`<br>- `wait-what`<br>- `writing-for-agents` |
 | 06 Reference Skills | The reusable layer other skills invoke or cite. Start with `/codebase-design`. | - `codebase-design`<br>- `domain-modeling`<br>- `grilling`<br>- `tdd` |
-| 07 Uncategorized | Not listed on the site — default for unmapped skills. | - `claude-handoff`<br>- `git-guardrails-claude-code`<br>- `implement-spec`<br>- `loop-me`<br>- `migrate-to-shoehorn`<br>- `retro`<br>- `scaffold-exercises`<br>- `setup-pre-commit`<br>- `setup-ts-deep-modules`<br>- `writing-beats`<br>- `writing-fragments`<br>- `writing-shape` |
+| 07 Uncategorized | Not listed on the site — default for unmapped skills. | - `claude-handoff`<br>- `git-guardrails-claude-code`<br>- `implement-spec`<br>- `loop-me`<br>- `migrate-to-shoehorn`<br>- `pr`<br>- `retro`<br>- `scaffold-exercises`<br>- `setup-pre-commit`<br>- `setup-ts-deep-modules`<br>- `writing-beats`<br>- `writing-fragments`<br>- `writing-shape` |
 
 <!-- SKILL-INVENTORY:END -->
 
